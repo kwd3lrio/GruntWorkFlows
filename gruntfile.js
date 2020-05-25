@@ -1,4 +1,4 @@
-module.exprts = function(grunt){
+module.exports = function(grunt){
   
   // Configure the various tasks and plugins that we'll be using
 
