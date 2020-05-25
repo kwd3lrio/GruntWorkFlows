@@ -20,13 +20,16 @@ module.exprts = function(grunt){
 
   }); //initConfig
 
-  
+
   //function Loads your task to the Node Package Manager (NPM)
+  
   grunt.loadNpmTasks('grunt-contrib-concat');
   grunt.loadNpmTasks('grunt-contrib-uglify');
 
+
   //function Publishes your task to the Node Package Manager (NPM)
   /*This allows grunt to run the task on your Command Prompt app with just the "grunt" command.no need to type the task names */
+
   grunt.registerTask('default', ['grunt-contrib-concat','uglify']);
 
 }; // grunt Wrapper function
