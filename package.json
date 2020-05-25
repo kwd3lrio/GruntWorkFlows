@@ -1,0 +1,18 @@
+{
+  "name": "gruntworkflows",
+  "version": "1.0.0",
+  "description": "Using Grunt for project work flow",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwd3lrio/GruntWorkFlows.git"
+  },
+  "author": "Kristian W Del-Rio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwd3lrio/GruntWorkFlows/issues"
+  },
+  "homepage": "https://github.com/kwd3lrio/GruntWorkFlows#readme",
+  "devDependencies": {
+    "grunt": "^1.1.0"
+  }
+}
